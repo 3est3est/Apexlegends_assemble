@@ -2,6 +2,6 @@
 
 ---
 
-# Run 
+**Run** 
 ```bash
 cargo run

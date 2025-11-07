@@ -1,7 +1,7 @@
-Internet Programming Rust-Axum
+# Internet Programming Rust-Axum
 
-#Install dependencies
-cargo build 
+---
 
-#Run 
+# Run 
+```bash
 cargo run
